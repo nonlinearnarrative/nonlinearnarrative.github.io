@@ -30,3 +30,9 @@ p {
   margin: 0 auto;
   padding-bottom: 3rem;
 }
+.header {
+  width: 100%;
+  padding: 2rem 0 0;
+  border-bottom: 1px solid #000;
+  margin-bottom: 5rem;
+}
