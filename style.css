@@ -9,6 +9,7 @@ body {
 body {
   font-family: Neue Haas Grotesk, Helvetica, Arial, sans-serif;
   font-size: 1.5rem;
+  background: #f0f0f0;
 }
 h1,
 h2 {
@@ -27,7 +28,8 @@ p {
 .wrap {
   width: 90%;
   max-width: 50rem;
-  margin: 0 auto;
+  /* margin: 0 auto; */
+  margin-left: 5rem;
   padding-bottom: 3rem;
 }
 .header {
