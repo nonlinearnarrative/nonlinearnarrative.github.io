@@ -25,6 +25,9 @@ h3 em {
 p {
   line-height: 1.5;
 }
+a {
+  color: #f0f;
+}
 .wrap {
   width: 90%;
   max-width: 50rem;
